@@ -11,7 +11,7 @@ class App extends Component {
           <h1>All Things Common</h1>
         </header>
         <div className="App-body">
-          <h2> Test 1 2 3 </h2>
+          <h2> Test 1 2 3 </h2> 
         </div>
         
       </div>
