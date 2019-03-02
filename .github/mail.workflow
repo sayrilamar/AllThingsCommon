@@ -1,6 +1,6 @@
 workflow "Test Workflow" {
-  on = "push"
   resolves = ["actions/bin/sh@master"]
+  on = "pull_request"
 }
 
 action "actions/bin/sh@master" {
