@@ -6576,7 +6576,7 @@ mute-stream@0.0.7:
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.7.tgz#3075ce93bc21b8fab43e1bc4da7e8115ed1e7bab"
   integrity sha1-MHXOk7whuPq0PhvE2n6BFe0ee6s=
 
-namor@^1.1.1:
+namor@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/namor/-/namor-1.1.2.tgz#33c0bd65a89a8fe450a385fb08ba3906d3f4d456"
   integrity sha512-p75fI18pc7CTg9T7bD8pdfRxJUPn4JJ27q+gOmZ2X6tFyQJYkzEyOS0odAXNTvps7qMS87cVAW2ShJ0wmhE6hg==
